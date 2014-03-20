@@ -1,0 +1,186 @@
+
+	{"poiType":"Building",
+		"buildingobjects":
+		[
+
+			{"poiName":"Douglas Hall",
+			"description":"African Studies Department, Armed Forces Offices",
+			"coordinates":[{"x":-77.02090322971344,"y":38.92366820161383}]
+			},
+
+			{"poiName":"School of Business",
+			"description":"They dress up and pretend to be important here",
+			"coordinates":[{"x":-77.02185809612274,"y":38.9244987092571}]
+			},
+
+			{"poiName":"Miners Hall",
+			"description":"empty ass building",
+			"coordinates":[{"x":-77.02176958322525,"y":38.92377462399059}]
+			},
+
+			{"poiName":"Administration Building",
+			"description":"Come here to be sent somewhere else",
+			"coordinates":[{"x":-77.02161937952042,"y":38.923232076872885}]
+			},
+
+			{"poiName":"Social Work",
+			"description":"Learn to help make people's lives more bearable",
+			"coordinates":[{"x":-77.02162206172943,"y":38.92263527025143}]
+			},
+
+			{"poiName":"Architecture Building",
+			"description":"building where kids learn how to build buildings",
+			"coordinates":[{"x":-77.02160596847534,"y":38.9221114952691}]
+			},
+
+			{"poiName":"Physic",
+			"description":"the science of science",
+			"coordinates":[{"x":-77.02082812786102,"y":38.92176091861883}]
+			},
+
+			{"poiName":"Engineering",
+			"description":"solve problems and make things",
+			"coordinates":[{"x":-77.0213270187378,"y":38.92158145609181}]
+			},
+
+			{"poiName":"Chemical Engineering",
+			"description":"same as engineering but with more chemicals and women",
+			"coordinates":[{"x":-77.02109634876251,"y":38.9210639337046}]
+			},
+
+			{"poiName":"Mental Health",
+			"description":"I dont know what they do here?",
+			"coordinates":[{"x":-77.02071815729141,"y":38.92090533737867}]
+			},
+
+			{"poiName":"Power Plant",
+			"description":"This provides power to the campus?",
+			"coordinates":[{"x":-77.02104538679123,"y":38.9203189452532}]
+			},
+
+			{"poiName":"Student Services Center",
+			"description":"CEDAR Center is here",
+			"coordinates":[{"x":-77.0205169916153,"y":38.92057562282976}]
+			},
+
+			{"poiName":"Health Science Library",
+			"description":"The newer library on campus",
+			"coordinates":[{"x":-77.01885402202606,"y":38.91985149752531}]
+			},
+
+			{"poiName":"Founders Library",
+			"description":"a lot of students come here to have sex",
+			"coordinates":[{"x":-77.01973915100098,"y":38.9223243445331}]
+			},
+
+			{"poiName":"Howard Middle School",
+			"description":"Money-Making Charter School. Can you say 'Government Funds'?",
+			"coordinates":[{"x":-77.019023001194,"y":38.92285229142191}]
+			},
+
+			{"poiName":"Locke Hall",
+			"description":"This is where the English Department is.",
+			"coordinates":[{"x":-77.01939046382904,"y":38.923428229001985}]
+			},
+
+			{"poiName":"BlackBurn Center",
+			"description":"There's food here. They host the Career Fair twice a year.",
+			"coordinates":[{"x":-77.01919198036194,"y":38.92396242779546}]
+			},
+
+			{"poiName":"Crampton Auditiorium",
+			"description":"Theater Department",
+			"coordinates":[{"x":-77.0211660861969,"y":38.92446949558536}]
+			},
+
+			{"poiName":"Burr Gynamsium",
+			"description":"Weights and shit",
+			"coordinates":[{"x":-77.02214777469635,"y":38.926489383976616}]
+			},
+
+			{"poiName":"Drew Hall",
+			"description":"sausage fest",
+			"coordinates":[{"x":-77.02092468738556,"y":38.927311512163726}]
+			},
+
+			{"poiName":"Ho Chi",
+			"description":"addictively unhealthy food and an atmosphere that says 'you could get stabbed at any moment'",
+			"coordinates":[{"x":-77.02270567417145,"y":38.9266020620073}]
+			},
+
+			{"poiName":"Undergrad Library",
+			"description":"Old books. Never been there myself",
+			"coordinates":[{"x":-77.01897740364075,"y":38.92229930347634}]
+			},
+
+			{"poiName":"Chemistry Building",
+			"description":"Like chemical engineering without the engineering, whatever that means",
+			"coordinates":[{"x":-77.02020585536957,"y":38.921360257468855}]
+			},
+
+			{"poiName":"Chapel",
+			"description":"I believe they have services here.",
+			"coordinates":[{"x":-77.02059209346771,"y":38.922157403987896}]
+			},
+
+			{"poiName":"Math Department",
+			"description":"*see name*",
+			"coordinates":[{"x":-77.0188057422638,"y":38.92355969235945}]
+			},
+
+			{"poiName":"School of Education",
+			"description":"Learn to learn",
+			"coordinates":[{"x":-77.01875746250153,"y":38.92329676540094}]
+			},
+
+			{"poiName":"School of C",
+			"description":"video and voice arts",
+			"coordinates":[{"x":-77.018483877182,"y":38.920755087900815}]
+			},
+
+			{"poiName":"Psychiartrics",
+			"description":"quacks",
+			"coordinates":[{"x":-77.02002346515656,"y":38.9205672756061}]
+			},
+
+			{"poiName":"International Affairs",
+			"description":"There are a lot of foreign Howard students",
+			"coordinates":[{"x":-77.02101051807404,"y":38.92066326861886}]
+			},
+
+			{"poiName":"Howard Bookstore",
+			"description":"Buy Howard edition textbooks that Howard won't buy back",
+			"coordinates":[{"x":-77.02158987522125,"y":38.91977011122222}]
+			},
+
+			{"poiName":"Field House",
+			"description":"Athletic Departments and tutors are here",
+			"coordinates":[{"x":-77.02176690101624,"y":38.925416847095335}]
+			},
+
+			{"poiName":"Daycare",
+			"description":"Never seen any kids here though. Eerie",
+			"coordinates":[{"x":-77.02072083950043,"y":38.92129348039054}]
+			},
+
+			{"poiName":"Nursing and Allied Health",
+			"description":"why not just go pre-med?",
+			"coordinates":[{"x":-77.02003955841064,"y":38.91982854242363}]
+			},
+
+			{"poiName":"School of Medicine",
+			"description":"I think Pharmacy is here too?",
+			"coordinates":[{"x":-77.020103931427,"y":38.91897711158828}]
+			},
+
+			{"poiName":"College of Dentistry",
+			"description":"You know they have buy all that equipment themselves?",
+			"coordinates":[{"x":-77.02079594135284,"y":38.91884772659654}]
+			},
+
+			{"poiName":"Student Health",
+			"description":"free checkups",
+			"coordinates":[{"x":-77.02168643474579,"y":38.91883103174174}]
+			}
+		]
+	}

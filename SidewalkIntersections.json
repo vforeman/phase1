@@ -1,0 +1,534 @@
+ {
+		"poiType":"Sidewalk Intersections",
+		"intersections":
+		[
+
+			{"poiName":"Point 1",
+			 "connectsTo":[2,3,4],
+			 "coordinates":[{"x":-77.02145844697952,"y":38.92615552209414}]
+			},
+
+
+			{"poiName":"Point 2",
+			 "connectsTo":[9,1,7],
+			 "coordinates":[{"x":-77.02157646417618,"y":38.925892604755816}]
+			},
+
+
+			{"poiName":"Point 3",
+			 "connectsTo":[1,4,5],
+			 "coordinates":[{"x":-77.02138066291809,"y":38.926485210712784}]
+			},
+
+
+			{"poiName":"Point 4",
+			 "connectsTo":[11,3,5],
+			 "coordinates":[{"x":-77.02165961265564,"y":38.92686497671627}]
+			},
+
+
+			{"poiName":"Point 5",
+			 "connectsTo":[4,3],
+			 "coordinates":[{"x":-77.02115267515182,"y":38.92692340207482}]
+			},
+
+
+			{"poiName":"Point 6",
+			 "connectsTo":[7,12],
+			 "coordinates":[{"x":-77.02122777700424,"y":38.92471155135941}]
+			},
+
+
+			{"poiName":"Point 7",
+			 "connectsTo":[8,6,13,2],
+			 "coordinates":[{"x":-77.02149599790573,"y":38.92491813278923}]
+			},
+
+
+			{"poiName":"Point 8",
+			 "connectsTo":[9,7],
+			 "coordinates":[{"x":-77.02193051576614,"y":38.92487013917735}]
+			},
+
+
+			{"poiName":"Point 9",
+			 "connectsTo":[10,2,8],
+			 "coordinates":[{"x":-77.02210485935211,"y":38.92583835185044}]
+			},
+
+
+			{"poiName>":"Point 10",
+			 "connectsTo":[11,9],
+			 "coordinates":[{"x":-77.02275663614273,"y":38.92577575229269}]
+			},
+
+
+			{"poiName>":"Point 11",
+			 "connectsTo":[4,10],
+			 "coordinates":[{"x":-77.0228961110115,"y":38.926771078717785}]
+			},
+
+
+			{"poiName>":"Point 12",
+			 "connectsTo":[6,13,22],
+			 "coordinates":[{"x":-77.02119559049606,"y":38.92439020127291}]
+			},
+
+
+			{"poiName>":"Point 13",
+			 "connectsTo":[7,14],
+			 "coordinates":[{"x":-77.02138066291809,"y":38.92421074539642}]
+			},
+
+
+			{"poiName>":"Point 14",
+			 "connectsTo":[15, 21],
+			 "coordinates":[{"x":-77.02136188745499,"y":38.924139797599125}]
+			},
+
+
+			{"poiName>":"Point 15",
+			 "connectsTo":[14, 16, 18],
+			 "coordinates":[{"x":-77.02151745557785,"y":38.9241105837796}]
+			},
+
+
+			{"poiName>":"Point 16",
+			 "connectsTo":[15, 17],
+			 "coordinates":[{"x":-77.02143967151642,"y":38.923465789986125}]
+			},
+
+
+			{"poiName>":"Point 17",
+			 "connectsTo":[17],
+			 "coordinates":[{"x":-77.02198684215546,"y":38.92342405555808}]
+			},
+
+
+			{"poiName>":"Point 18",
+			 "connectsTo":[15,19],
+			 "coordinates":[{"x":-77.02208340167999,"y":38.92405006940093}]
+			},
+
+
+			{"poiName>":"Point 19",
+			 "connectsTo":[17,18,20],
+			 "coordinates":[{"x":-77.0221021771431,"y":38.92373706316998}]
+			},
+
+
+			{"poiName>":"Point 20",
+			 "connectsTo":[10, 88],
+			 "coordinates":[{"x":-77.02246695756912,"y":38.92373080303127}]
+			},
+
+
+			{"poiName>":"Point 21",
+			 "connectsTo":[14, 22, 39],
+			 "coordinates":[{"x":-77.0213457942009,"y":38.92402294224889}]
+			},
+
+
+			{"poiName>":"Point 22",
+			 "connectsTo":[21, 23, 24,25],
+			 "coordinates":[{"x":-77.02061355113983,"y":38.924087630055844}]
+			},
+
+
+			{"poiName>":"Point 23",
+			 "connectsTo":[22, 24, 26],
+			 "coordinates":[{"x":-77.02024608850479,"y":38.92410641037585}]
+			},
+
+
+			{"poiName>":"Point 24",
+			 "connectsTo":[25, 28, 29, 30, 31],
+			 "coordinates":[{"x":-77.02022194862366,"y":38.923724542891996}]
+			},
+
+
+			{"poiName>":"Point 25",
+			 "connectsTo":[22,24,30],
+			 "coordinates":[{"x":-77.02056258916855,"y":38.92370367575717}]
+			},
+
+
+			{"poiName>":"Point 26",
+			 "connectsTo":[23, 24, 28],
+			 "coordinates":[{"x":-77.01991617679596,"y":38.92414814440249}]
+			},
+
+
+			{"poiName>":"Point 27",
+			 "connectsTo":[],
+			 "coordinates":[{"x":-77.0194360613823,"y":38.92421283209527}]
+			},
+
+
+			{"poiName>":"Point 28",
+			 "connectsTo":[],
+			 "coordinates":[{"x":-77.0196345448494,"y":38.92376419043131}]
+			},
+
+
+			{"poiName>":"Point 29",
+			 "connectsTo":[],
+			 "coordinates":[{"x":-77.02014148235321,"y":38.92331971938057}]
+			},
+
+
+			{"poiName>":"Point 30",
+			 "connectsTo":[],
+			 "coordinates":[{"x":-77.0205008983612,"y":38.923282158319125}]
+			},
+
+
+			{"poiName>":"Point 31",
+			 "connectsTo":[],
+			 "coordinates":[{"x":-77.01981961727142,"y":38.923346846801486}]
+			},
+
+
+			{"poiName>":"Point 32",
+			 "connectsTo":[],
+			 "coordinates":[{"x":-77.01966673135757,"y":38.92329467867515}]
+			},
+
+
+			{"poiName>":"Point 33",
+			 "connectsTo":[],
+			 "coordinates":[{"x":-77.01960235834122,"y":38.923038010934924}]
+			},
+
+
+			{"poiName>":"Point 34",
+			 "connectsTo":[],
+			 "coordinates":[{"x":-77.0190578699112,"y":38.92313191387441}]
+			},
+
+
+			{"poiName>":"Point 35",
+			 "connectsTo":[],
+			 "coordinates":[{"x":-77.01914638280869,"y":38.9236097735744}]
+			},
+
+
+			{"poiName>":"Point 36",
+			 "connectsTo":[],
+			 "coordinates":[{"x":-77.01950043439865,"y":38.92261648954203}]
+			},
+
+
+			{"poiName>":"Point 37",
+			 "connectsTo":[],
+			 "coordinates":[{"x":-77.02010124921799,"y":38.92297332217095}]
+			},
+
+
+			{"poiName>":"Point 38",
+			 "connectsTo":[],
+			 "coordinates":[{"x":-77.02039361000061,"y":38.92264779072162}]
+			},
+
+
+			{"poiName>":"Point 39",
+			 "connectsTo":[],
+			 "coordinates":[{"x":-77.02120900154114,"y":38.92322581668965}]
+			},
+
+
+			{"poiName>":"Point 40",
+			 "connectsTo":[],
+			 "coordinates":[{"x":-77.02110439538956,"y":38.92243702917906}]
+			},
+
+
+			{"poiName>":"Point 41",
+			 "connectsTo":[],
+			 "coordinates":[{"x":-77.0210212469101,"y":38.921825608488184}]
+			},
+
+
+			{"poiName>":"Point 42",
+			 "connectsTo":[],
+			 "coordinates":[{"x":-77.0203185081482,"y":38.922057239472245}]
+			},
+
+
+			{"poiName>":"Point 43",
+			 "connectsTo":[],
+			 "coordinates":[{"x":-77.02039897441864,"y":38.92250797867913}]
+			},
+
+
+			{"poiName>":"Point 44",
+			 "connectsTo":[],
+			 "coordinates":[{"x":-77.01927244663239,"y":38.922153230469235}]
+			},
+
+
+			{"poiName>":"Point 45",
+			 "connectsTo":[],
+			 "coordinates":[{"x":-77.02094078063965,"y":38.921527199889624}]
+			},
+
+
+			{"poiName>":"Point 46",
+			 "connectsTo":[],
+			 "coordinates":[{"x":-77.02023267745972,"y":38.921635712252495}]
+			},
+
+
+			{"poiName>":"Point 47",
+			 "connectsTo":[],
+			 "coordinates":[{"x":-77.0191839337349,"y":38.921721269960045}]
+			},
+
+
+			{"poiName>":"Point 48",
+			 "connectsTo":[],
+			 "coordinates":[{"x":-77.02088177204132,"y":38.921109843101185}]
+			},
+
+
+			{"poiName>":"Point 49",
+			 "connectsTo":[],
+			 "coordinates":[{"x":-77.02039361000061,"y":38.921153665679334}]
+			},
+
+
+			{"poiName>":"Point 50",
+			 "connectsTo":[],
+			 "coordinates":[{"x":-77.0181754231453,"y":38.921364431034156}]
+			},
+
+
+			{"poiName>":"Point 51",
+			 "connectsTo":[],
+			 "coordinates":[{"x":-77.01829075813293,"y":38.92209688794325}]
+			},
+
+
+			{"poiName>":"Point 52",
+			 "connectsTo":[],
+			 "coordinates":[{"x":-77.01836049556732,"y":38.92269787258029}]
+			},
+
+
+			{"poiName>":"Point 53",
+			 "connectsTo":[],
+			 "coordinates":[{"x":-77.0190766453743,"y":38.921289306821066}]
+			},
+
+
+			{"poiName>":"Point 54",
+			 "connectsTo":[],
+			 "coordinates":[{"x":-77.01970964670181,"y":38.92121418252846}]
+			},
+
+
+			{"poiName>":"Point 55",
+			 "connectsTo":[],
+			 "coordinates":[{"x":-77.01941192150116,"y":38.92139364598443}]
+			},
+
+
+			{"poiName>":"Point 56",
+			 "connectsTo":[],
+			 "coordinates":[{"x":-77.01857775449753,"y":38.92106184691313}]
+			},
+
+
+			{"poiName>":"Point 57",
+			 "connectsTo":[],
+			 "coordinates":[{"x":-77.02034801244736,"y":38.92088446941469}]
+			},
+
+
+			{"poiName>":"Point 58",
+			 "connectsTo":[],
+			 "coordinates":[{"x":-77.01925367116928,"y":38.92099715634741}]
+			},
+
+
+			{"poiName>":"Point 59",
+			 "connectsTo":[],
+			 "coordinates":[{"x":-77.019744515419,"y":38.920942899698446}]
+			},
+
+
+			{"poiName>":"Point 60",
+			 "connectsTo":[],
+			 "coordinates":[{"x":-77.02031314373016,"y":38.92057770963552}]
+			},
+
+
+			{"poiName>":"Point 61",
+			 "connectsTo":[],
+			 "coordinates":[{"x":-77.02023804187775,"y":38.92013739226036}]
+			},
+
+
+			{"poiName>":"Point 62",
+			 "connectsTo":[],
+			 "coordinates":[{"x":-77.01957017183304,"y":38.92021669132586}]
+			},
+
+
+			{"poiName>":"Point 63",
+			 "connectsTo":[],
+			 "coordinates":[{"x":-77.01943337917328,"y":38.920538060315565}]
+			},
+
+
+			{"poiName>":"Point 64",
+			 "connectsTo":[],
+			 "coordinates":[{"x":-77.01915979385376,"y":38.920247993564146}]
+			},
+
+
+			{"poiName>":"Point 65",
+			 "connectsTo":[],
+			 "coordinates":[{"x":-77.0208066701889,"y":38.92070083106674}]
+			},
+
+
+			{"poiName>":"Point 66",
+			 "connectsTo":[],
+			 "coordinates":[{"x":-77.02062964439392,"y":38.92053388670166}]
+			},
+
+
+			{"poiName>":"Point 67",
+			 "connectsTo":[],
+			 "coordinates":[{"x":-77.0207530260086,"y":38.92034398700886}]
+			},
+
+
+			{"poiName>":"Point 68",
+			 "connectsTo":[],
+			 "coordinates":[{"x":-77.02073156833649,"y":38.920091482234554}]
+			},
+
+
+			{"poiName>":"Point 69",
+			 "connectsTo":[],
+			 "coordinates":[{"x":-77.02054917812347,"y":38.919110670041974}]
+			},
+
+
+			{"poiName>":"Point 70",
+			 "connectsTo":[],
+			 "coordinates":[{"x":-77.01976597309113,"y":38.91917744917452}]
+			},
+
+
+			{"poiName>":"Point 71",
+			 "connectsTo":[],
+			 "coordinates":[{"x":-77.02009320259094,"y":38.91915658070236}]
+			},
+
+
+			{"poiName>":"Point 72",
+			 "connectsTo":[],
+			 "coordinates":[{"x":-77.02002882957458,"y":38.919782632197986}]
+			},
+
+
+			{"poiName>":"Point 73",
+			 "connectsTo":[],
+			 "coordinates":[{"x":-77.01931536197662,"y":38.91987027896659}]
+			},
+
+
+			{"poiName>":"Point 74",
+			 "connectsTo":[],
+			 "coordinates":[{"x":-77.01884329319,"y":38.919323528307935}]
+			},
+
+
+			{"poiName>":"Point 75",
+			 "connectsTo":[],
+			 "coordinates":[{"x":-77.01897740364075,"y":38.91989114722889}]
+			},
+
+
+			{"poiName>":"Point 76",
+			 "connectsTo":[],
+			 "coordinates":[{"x":-77.01788306236267,"y":38.919369438830614}]
+			},
+
+
+			{"poiName>":"Point 77",
+			 "connectsTo":[],
+			 "coordinates":[{"x":-77.01802253723145,"y":38.92033355294507}]
+			},
+
+
+			{"poiName>":"Point 78",
+			 "connectsTo":[],
+			 "coordinates":[{"x":-77.02134847640991,"y":38.920049745821665}]
+			},
+
+
+			{"poiName>":"Point 79",
+			 "connectsTo":[],
+			 "coordinates":[{"x":-77.0219224691391,"y":38.91997462021666}]
+			},
+
+
+			{"poiName>":"Point 80",
+			 "connectsTo":[],
+			 "coordinates":[{"x":-77.02190637588501,"y":38.91901884863204}]
+			},
+
+
+			{"poiName>":"Point 81",
+			 "connectsTo":[],
+			 "coordinates":[{"x":-77.02119827270508,"y":38.919052238249414}]
+			},
+
+
+			{"poiName>":"Point 82",
+			 "connectsTo":[],
+			 "coordinates":[{"x":-77.01909005641937,"y":38.91925257562357}]
+			},
+
+
+			{"poiName>":"Point 83",
+			 "connectsTo":[],
+			 "coordinates":[{"x":-77.01895594596863,"y":38.91838026917668}]
+			},
+
+
+			{"poiName>":"Point 84",
+			 "connectsTo":[],
+			 "coordinates":[{"x":-77.02120900154114,"y":38.918200798099186}]
+			},
+
+
+			{"poiName>":"Point 85",
+			 "connectsTo":[],
+			 "coordinates":[{"x":-77.02134847640991,"y":38.921253831470594}]
+			},
+
+
+			{"poiName>":"Point 86",
+			 "connectsTo":[],
+			 "coordinates":[{"x":-77.02209144830704,"y":38.921184967504274}]
+			},
+
+
+			{"poiName>":"Point 87",
+			 "connectsTo":[],
+			 "coordinates":[{"x":-77.02217727899551,"y":38.92172544350412}]
+			},
+
+
+			{"poiName>":"Point 88",
+			 "connectsTo":[],
+			 "coordinates":[{"x":-77.02227652072906,"y":38.92233686505815}]
+			}
+		]
+	}
+
